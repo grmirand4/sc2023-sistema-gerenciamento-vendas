@@ -1,0 +1,10 @@
+id,produtos,valores,quantidades,cpf_comprador,nome_vendedor,dia,mes,ano,info_adicional
+0,,,,,,,,,Venda cancelada
+1,,,,,,,,,Venda cancelada
+2,Camisa; Calça,90; 120,2; 5,12345678900,Gabriel,11,6,2023,
+3,Jaqueta; Camisa,350; 90,2; 5,74185296333,Gabriel,17,6,2023,Pagamento em dinheiro
+4,Saia; Óculos; Vestido,70; 110; 200,3; 1; 5,85278945612,Daniela,11,5,2023,
+5,Óculos; Colar,110; 160,5; 5,74112345689,Daniela,13,6,2023,Pagamento a prazo
+6,Vestido,200,1,75342189600,João,1,2,2023,
+7,Chapéu,40,5,78945678955,Maria,13,2,2023,
+8,Vestido; Chapéu; Óculos; Camisa; Calça,200; 40; 110; 90; 120,2; 1; 1; 2; 1,95162378423,Maria,6,6,2023,Pagamento em dinheiro
